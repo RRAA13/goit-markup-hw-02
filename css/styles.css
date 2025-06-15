@@ -167,10 +167,13 @@ button {
 .portfolio {}
 
 .portfolio-title {
+    color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-item {}
@@ -178,6 +181,7 @@ button {
 .portfolio-item-list {}
 
 .portfolio-item-list-image {
+    width: 360;
 }
 
 .portfolio-item-list-subtitle {
@@ -192,6 +196,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
 }
 
 .portfolio-item-list {}
