@@ -134,7 +134,9 @@ a {
 /* description stop */
 
 /* team start */
-.team {}
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     background-color: #F4F4FD;
@@ -147,16 +149,17 @@ a {
     color: #2e2f42;
 }
 
-.team-item {
-    background-color: #FFFFFF
-}
+.team-item {}
 
-.team-item-list {}
+.team-item-list {
+    background-color: #FFFFFF;
+}
 
 .team-item-list-image {
 }
 
 .team-item-list-subtitle {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
