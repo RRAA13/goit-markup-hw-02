@@ -103,8 +103,7 @@ a {
 /* baner stop */
 
 /* description stert */
-.description {
-}
+.description {}
 
 .description-title {
     font-weight: 700;
@@ -135,16 +134,23 @@ a {
 /* description stop */
 
 /* team start */
-.team {}
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-item-list {}
 
