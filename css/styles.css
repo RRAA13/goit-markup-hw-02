@@ -28,7 +28,7 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    line-height: 1.17
+    line-height: 1.17;
 }
 
 .header-logo .logo-part {
@@ -58,7 +58,7 @@ button {
 
 .contacts-list {}
 
-.contacs-item {}
+.contacts-item {}
 
 .contacts-address {
     font-size: 16px;
@@ -134,7 +134,7 @@ button {
     color: #434455;
 }
 
-.description-list-subtitile {}
+.description-list-subtitle {}
 /* description stop */
 
 /* team start */
@@ -217,7 +217,7 @@ button {
 
 .footer-logo {
     color: #4d5ae5;
-    line-height: 1.17
+    line-height: 1.17;
 }
 
 .footer-logo .logo-part {
