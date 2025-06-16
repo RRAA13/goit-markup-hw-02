@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: white;
+    background-color: #ffffff;
 }
 
 ul, ol {
@@ -10,10 +10,6 @@ ul, ol {
 
 a {
     text-decoration: none;
-}
-
-button {
-    cursor: pointer
 }
 
 /* page header start */
@@ -49,7 +45,7 @@ button {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .contacts {
@@ -69,7 +65,7 @@ button {
 
 .contacts-address:hover,
 .contacts-address:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 /* page header stop*/
 
@@ -84,24 +80,25 @@ button {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 
 .banner-button {
+    cursor: pointer;
     font-family: "Roboto", sans-serif;
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
 
 }
 
 .banner-button:hover,
 .banner-button:focus {
-    background-color: #404bbf;
+    background-color: #404BBF;
 }
 /* baner stop */
 
