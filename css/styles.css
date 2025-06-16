@@ -58,6 +58,7 @@ a {
 /* page header stop*/
 
 /* banner start */
+
 .banner {
     background-color: #2e2f42;
 }
@@ -74,7 +75,7 @@ a {
 .banner-button {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-    background-color: #4d5ae5;
+    background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -86,6 +87,7 @@ a {
 .banner-button:focus {
     background-color: #404BBF;
 }
+
 /* baner stop */
 
 /* description start */
