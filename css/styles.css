@@ -74,11 +74,11 @@ button {
 /* page header stop*/
 
 /* baner start */
-.baner {
+.banner {
     background: #2e2f42;
 }
 
-.baner-title {
+.banner-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -87,7 +87,7 @@ button {
 }
 
 
-.baner-button {
+.banner-button {
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
