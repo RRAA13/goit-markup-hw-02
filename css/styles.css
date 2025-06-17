@@ -81,9 +81,9 @@ a {
     cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus {
-    background-color: #404BBF;
+.hero-banner-button:hover,
+.hero-banner-button:focus {
+    background-color: #404BBF
 }
 /* baner stop */
 
@@ -120,7 +120,7 @@ a {
     color: #2e2f42;
 }
 
-.team-item {
+.team-item-list {
     background-color: #FFFFFF
 }
 
@@ -134,7 +134,7 @@ a {
 
 .team-item-list-text {
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
