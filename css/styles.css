@@ -63,23 +63,22 @@ a {
 }
 
 .hero-banner-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0.02em;
     text-align: center;
+    letter-spacing: 0.02em;
     color: #ffffff;
 }
 
 .hero-banner-button {
-    cursor: pointer;
-    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .hero-button:hover,
@@ -89,12 +88,7 @@ a {
 /* baner stop */
 
 /* description start */
-.description-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-}
+.description-title {}
 
 .description-list-subtitle {
     font-weight: 500;
