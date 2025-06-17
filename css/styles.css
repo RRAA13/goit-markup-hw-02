@@ -58,11 +58,11 @@ a {
 /* page header stop*/
 
 /* banner start */
-.hero {
+.hero-banner {
     background-color: #2e2f42;
 }
 
-.hero-title {
+.hero-banner-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -71,7 +71,7 @@ a {
     color: #ffffff;
 }
 
-.hero-button {
+.hero-banner-button {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
@@ -89,7 +89,6 @@ a {
 /* baner stop */
 
 /* description start */
-
 .description-title {
     font-weight: 700;
     font-size: 36px;
@@ -119,7 +118,6 @@ a {
 }
 
 .team-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
